@@ -16,9 +16,8 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:
-
-![image](https://github.com/user-attachments/assets/e77fa001-db9e-4b2f-9517-3d497367f9e5)
+## NAME : ASHRATHI S
+## REGISTER NUMBER : 212224230025
 
 ## Program
 
